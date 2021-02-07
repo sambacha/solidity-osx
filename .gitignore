@@ -1,2 +1,9 @@
 .DS_Store
 node_modules
+*.dylib
+*.dll
+*.slo
+*.lo
+*.o
+*.obj
+
