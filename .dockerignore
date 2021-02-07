@@ -1,9 +1,8 @@
-.DS_Store
+.git
 node_modules
-*.dylib
-*.dll
 *.slo
 *.lo
 *.o
 *.obj
-
+*.dylib
+*.dll
