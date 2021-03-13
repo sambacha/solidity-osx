@@ -7,6 +7,14 @@
 </div>
 
 
+## Solidity Version Manager (asdf-solidity)
+
+[https://github.com/sambacha/asdf-solidity](https://github.com/sambacha/asdf-solidity)
+Instead of using Homebrew <br>
+*(which has its own issues as Homebrew has its own 'kingdom' a.k.a the Celler/")* <br>
+asdf-solidity uses [asdf-vm](https://github.com/asdf-vm/asdf)
+
+
 ### Solidity Versions 
 
 [releases](https://github.com/ethereum/homebrew-ethereum/commits/master/solidity.rb)
